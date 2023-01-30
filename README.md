@@ -1,2 +1,4 @@
 # queue_for_banking_data_structres
 Within the scope of this lab, you should write a C program that prints the transactions performed from the beginning of the 1st minute until the moment when there are no customers in the bank (entering -1).
+Customers waiting to transact at a bank located in a low-density residential area are in a queue (queue). Bank employees who perform the transactions are kept in a stack. There are 6 employees in the bank. Employees' identification numbers vary between 1 and 6. Initially, employee of ID number 6 is at the top of the stack and employee of ID number 1 is at the bottom of the stack.
+The output will consist of customer number, employee number, when the process started, when the process ends, the customer's waiting time in the queue. Additionally, the total length of service for each employee will be printed.
